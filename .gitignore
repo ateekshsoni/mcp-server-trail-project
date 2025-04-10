@@ -3,3 +3,5 @@ server/node_modules/
 
 # Node modules for client
 client/node_modules/
+
+.env
